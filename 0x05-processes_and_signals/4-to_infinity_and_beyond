@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 #infinite loop
-valid=true
-a="To infinity and beyond"
-while [ $valid ]
+while true
 do
-	echo $a
+	echo To infinity and beyond
 	sleep 2
 done
