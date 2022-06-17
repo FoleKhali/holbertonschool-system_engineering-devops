@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# print best school 10 times with for
 for (( counter=10; counter>0; counter-- ))
 do
 echo -n "Best School"
