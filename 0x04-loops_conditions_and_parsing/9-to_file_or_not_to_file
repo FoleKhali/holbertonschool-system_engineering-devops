@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #output some information about a file
 file="holbertonschool"
 if [ -e $file ]; then
