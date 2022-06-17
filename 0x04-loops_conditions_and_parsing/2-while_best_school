@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+valid=true
+count=1
+while [ $valid ]
+do
+echo "Best School"
+if [ $count -eq 10 ];
+then
+break
+fi
+((count++))
+done
