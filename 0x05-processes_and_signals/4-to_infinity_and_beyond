@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#infinite loop
+valid=true
+a="To infinity and beyond"
+while [ $valid ]
+do
+	echo $a
+	sleep 2
+done
