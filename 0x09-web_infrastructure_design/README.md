@@ -1,5 +1,5 @@
 
-# ✨ Web infrastructure design✨
+<h1 align ="center"> ✨ Web infrastructure design✨ </h1>
 <p align ="center">
 <img src= "https://iisolutions.net/wp-content/uploads/2019/03/Infrastructure-Design.png" height="60%" width="50%" />
 <p/>
