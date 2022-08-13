@@ -1,6 +1,6 @@
 # This Puppet manifest creates a file in /tmp
 
-file { 'school':
+file { '/tmp/school':
   ensure  => 'file',
   path    => '/tmp/school',
   mode    => '0744',
