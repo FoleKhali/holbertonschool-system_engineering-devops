@@ -9,6 +9,6 @@ echo "listen appname
         bind *:80
         mode http
         balance roundrobin
-        server 946-web-01 34.73.238.143:80 check
-        server 946-web-02 35.229.20.11:80 check" | sudo tee -a /etc/haproxy/haproxy.cfg
+        server 4270-web-01 52.73.0.54:80 check
+        server 4270-web-02 54.146.27.157:80 check" | sudo tee -a /etc/haproxy/haproxy.cfg
 sudo service haproxy restart
